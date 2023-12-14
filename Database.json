@@ -1,0 +1,40 @@
+{
+  "user": {
+    "03a7bbc6-e62f-4406-9a67-6e909a2a91e6": {
+      "id": "03a7bbc6-e62f-4406-9a67-6e909a2a91e6",
+      "secret": {
+        "ascii": "sRXb4sDJ*?k{ZXt(9mAM^5(ciFBvCAo9",
+        "hex": "735258623473444a2a3f6b7b5a587428396d414d5e3528636946427643416f39",
+        "base32": "ONJFQYRUONCEUKR7NN5VUWDUFA4W2QKNLY2SQY3JIZBHMQ2BN44Q",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=ONJFQYRUONCEUKR7NN5VUWDUFA4W2QKNLY2SQY3JIZBHMQ2BN44Q"
+      },
+      "username": "vvc",
+      "email": "vvc@gmail.com",
+      "auth_enabled": true
+    },
+    "401e112f-4a4b-43c1-9a4b-6e39076870c2": {
+      "id": "401e112f-4a4b-43c1-9a4b-6e39076870c2",
+      "secret": {
+        "ascii": "V8v}d#ep!bAHi@rpbeC,]0ScAu<7ypkV",
+        "hex": "5638767d6423657021624148694072706265432c5d30536341753c3779706b56",
+        "base32": "KY4HM7LEENSXAILCIFEGSQDSOBRGKQZMLUYFGY2BOU6DO6LQNNLA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=KY4HM7LEENSXAILCIFEGSQDSOBRGKQZMLUYFGY2BOU6DO6LQNNLA"
+      },
+      "username": "vvc",
+      "email": "vvc1@gmail.com",
+      "auth_enabled": true
+    },
+    "5017c299-7094-4c13-9ed4-da50de231c72": {
+      "id": "5017c299-7094-4c13-9ed4-da50de231c72",
+      "secret": {
+        "ascii": "iEEy>B#9tvL#fg*:l2hH$m^#GZziw8Om",
+        "hex": "694545793e42233974764c2366672a3a6c326848246d5e23475a7a6977384f6d",
+        "base32": "NFCUK6J6IIRTS5DWJQRWMZZKHJWDE2CIERWV4I2HLJ5GS5ZYJ5WQ",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=NFCUK6J6IIRTS5DWJQRWMZZKHJWDE2CIERWV4I2HLJ5GS5ZYJ5WQ"
+      },
+      "username": "vvc",
+      "email": "vvc2@gmail.com",
+      "auth_enabled": false
+    }
+  }
+}
